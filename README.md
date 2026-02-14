@@ -45,6 +45,5 @@ We would like to express our gratitude to the agricultural research community, f
 
 ## Project Maintainer
 
-**Vedniyas Vyas**  
-Team Leader  
-📧 Email: vedniyasvyas@gmail.com
+**Anushka Sadhu**  
+📧 Email: anushkasadhu2904@gmail.com
